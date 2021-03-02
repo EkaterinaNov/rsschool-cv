@@ -2,7 +2,7 @@
 **Phone: (+37544) 490-30-45**  
 **Email: <novikova.katerina.valerevna@gmail.com>**  
 **Skype: live:.cid.8b8e51fd093a93f7**  
-**Linkedin:** [Novikova Ekaterina] (https://www.linkedin.com/in/ekaterina-novikova-800ab3202/)  
+**Linkedin:** [Novikova Ekaterina](https://www.linkedin.com/in/ekaterina-novikova-800ab3202/)  
 
 ## Objective ##  
 
@@ -33,10 +33,13 @@ I think the web is a promising direction.
 **Project description:** table tennis game written in JavaScript  
 **Project link:** <https://clck.ru/SjVHm>  
 **Main responsibilities:**
+
 * game design
 * writing code for javascript
-* game testing  
+* game testing
+
 **Achievements:**
+
 * mastered the basic level of JavaScript
 * improved skills of working with JavaScript animation and make it smooth
 * improved skills of working with canvas
@@ -48,20 +51,26 @@ I think the web is a promising direction.
 **Project description:** travel company website  
 **Project link:** <https://clck.ru/SjVFs>  
 **Main responsibilities:**
+
 * create HTML for website
 * create CSS for website
-* create a bit JavaScript for website  
+* create a bit JavaScript for website
+
 **Achievements:**
+
 * learned to do responsive layout
 * learned how to make a “rubber” layout
 * learned how to make css animations
 * learned use javascript
 
 **05/2019 - 08/2020  – Trainee, Educational Center STEP Computer Academy**  
-**Main responsibilities:**  
+**Main responsibilities:**
+
 * study of various programming languages and technologies
-* passing exams at the end of each stage  
+* passing exams at the end of each stage
+
 **Achievements:**
+
 * learned the basics of programming languages such as C, C++, C#, SQL
 * learned the basics of .NET (console apps, WPF)
 * learned the basics of database administration using the example of Microsoft SQL Server Management Studio 18
