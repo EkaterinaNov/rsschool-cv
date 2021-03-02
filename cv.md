@@ -2,7 +2,7 @@
 **Phone: (+37544) 490-30-45**  
 **Email: <novikova.katerina.valerevna@gmail.com>**  
 **Skype: live:.cid.8b8e51fd093a93f7**  
-**Linkedin:** [Novikova Ekaterina](https://www.linkedin.com/in/ekaterina-novikova-800ab3202/)  
+**Linkedin:** [Ekaterina Novikova](https://www.linkedin.com/in/ekaterina-novikova-800ab3202/)  
 
 ## Objective ##  
 
@@ -31,7 +31,8 @@ I think the web is a promising direction.
 **09/2020 - 12/2020 – Trainee,  Educational Center for Programming and High Tech (IT-Academy)**  
 **Project role:** Frontend Developer  
 **Project description:** table tennis game written in JavaScript  
-**Project link:** <https://clck.ru/SjVHm>  
+**Project link:** <https://clck.ru/SjVHm>
+
 **Main responsibilities:**
 
 * game design
@@ -49,7 +50,8 @@ I think the web is a promising direction.
 **06/2020 - 09/2020  – Trainee,  Educational Center for Programming and High Tech (IT-Academy)**  
 **Project role:** web producer  
 **Project description:** travel company website  
-**Project link:** <https://clck.ru/SjVFs>  
+**Project link:** <https://clck.ru/SjVFs>
+
 **Main responsibilities:**
 
 * create HTML for website
@@ -63,7 +65,8 @@ I think the web is a promising direction.
 * learned how to make css animations
 * learned use javascript
 
-**05/2019 - 08/2020  – Trainee, Educational Center STEP Computer Academy**  
+**05/2019 - 08/2020  – Trainee, Educational Center STEP Computer Academy**
+
 **Main responsibilities:**
 
 * study of various programming languages and technologies
