@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box; /* ширина и поля элементов включают в себя границы ти поля без margin*/
+}
+
+a {
+    text-decoration: none; /* убираем подчеркивание */
+    color: black;
+} 
+
+body {
+    margin: 0em auto; /* автоматическое центрирование по горизонтали */
+    max-width: 1200px; /* ограничиваем максимальную ширину */
+    font-family: 'Poppins', sans-serif; /* устанавливаем единый шрифт для всей страницы */
+}
+
+h1, h2 {
+    text-transform: uppercase; /* все буквы большие */
+    font-weight: 600; /* шрифт полужирный */
+}
+
+li {
+    list-style-type: none; /* убираем маркеры у списков */
+}
+
+ul {
+    margin: 0; /* убираем внешние отступы у списков */
+    padding-left: 0; /* отступ слева в браузере Firefox, Safari, Chrome */
+}
+
+/*header*/
+.avatar {
+    display: flex;
+    flex-direction: row; /* элементы расположены все по горизонтальной линии */
+    justify-content: space-around; /* расстояние распределяется равномерно между элементами */
+    align-items: flex-end; /* элементы выравниваются по нижней границе */
+    flex-grow: 2;
+    margin: 0;
+}
+
+.contact li {
+    font-size: 1.3em; /* размер шрифта в списке контактов */
+    line-height: 1.5em; /* расстояние между строчками*/
+    font-weight: 300; /* шрифт тоньше обычного*/
+}
+
+figure img { width: 50%;} /* ширина фотографии */
+
+figcaption { width: 30%;} /* ширина подписи к фотографии */
+
+header {
+    display: flex;
+    flex-direction: row;
+    background-color: #B5C4ED; /* фоновый цвет */
+    justify-content: space-around;
+    align-items: center; /* по вертикали элементы выравнены по центру */
+    padding: 2.5em; /* внутренний отступ со всех сторон */
+}
+
+/*footer*/
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #6B8ADC;
+    padding: 1em 1.5em; /* 1em сверху и снизу, 1.5em слева и справа*/
+    color: #FFFFF3;
+}
+
+footer a {color: #FFFFF3;}
