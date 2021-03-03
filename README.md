@@ -1,1 +1,1 @@
-https://EkaterinaNov.github.io/rsschool-cv/index
+https://EkaterinaNov.github.io/rsschool-cv/
