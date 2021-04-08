@@ -10,8 +10,6 @@ a {
 } 
 
 body {
-    margin: 0rem auto; /* автоматическое центрирование по горизонтали */
-    max-width: 1200px; /* ограничиваем максимальную ширину */
     font-family: 'Poppins', sans-serif; /* устанавливаем единый шрифт для всей страницы */
 }
 
@@ -99,6 +97,11 @@ main {
     margin: 0rem;
 }
 
+.main-width {
+    max-width: 1200px; /* ограничиваем максимальную ширину */
+    margin: 0rem auto; /* автоматическое центрирование по горизонтали */
+}
+
 /* footer */
 footer {
     display: flex;
@@ -111,3 +114,27 @@ footer {
 }
 
 footer a {color: #FFFFF3;}
+
+@media all and (max-width: 1150px) {
+    .avatar {
+        justify-content: space-between;
+        margin-bottom: 1rem;
+    }
+
+    figcaption { width: 34%; }
+
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
+
+@media all and (max-width: 650px) {
+    .avatar {
+        flex-direction: column;
+        align-items: flex-start;
+        margin-bottom: 0rem;
+    }
+
+    figure img { width: 70%;} 
+}
